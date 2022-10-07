@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Prova da 7º série</title>
+</head>
+<body>
+    <h1>7º série A - Prova de Conhecimentos Gerais</h1>
+    <p>Responda todas as questões, ultilize rascunhos em papel para realizar os calculos. 
+        Os rascunhos serão recolhidos pela professora após a quarentena.</p>
+
+    
+<body>
+
+    
+    
+    <form>
+        <fieldset>
+            <legend>Informações do aluno</legend>
+      <label for="fname"></label><br>
+      <input type="text" id="fname" name="fname" value="Digite seu nome"><br>
+      <label for="lname"></label><br>
+      <input type="text" id="lname" name="lname" value="N° de pessoas no grupo"><br>
+      <label for="fname"></label><br>
+      <input type="text" id="fname" name="fname" value="Digite seu e-mail"><br><br>
+      <label for="fname">Data de nascimento</label><br>
+      <input type="text" id="fname" name="fname" value="dd/mm/aaaa"><br><br>
+      <label for="fname">Digite uma senha para guardar os dados da pesquisa posteriormente:</label><br>
+      <input type="text" id="fname" name="fname" value="Digite uma senha"><br>
+
+
+
+
+
+    </fieldset>
+
+<fieldset>
+    <legend>Espanhol</legend>
+
+    <img src="https://s3.static.brasilescola.uol.com.br/be/2021/11/1-espanhol.jpg" alt="Italian Trulli"><br>
+    <label for="idnome">¿Cual es tu nombre?</label><br>
+    <input type="¿Cual es tu nombre?" id="idnome" name="¿Cual es tu nombre?" value=""><br><br>
+    <label for="idnome">¿Cuántos años tiene usted?</label><br>
+    <input type="¿Cual es tu nombre?" id="idnome" name="¿Cual es tu nombre?" value=""><br><br>
+    <label for="idnome">¿Donde vive usted?</label><br>
+    <input type="¿Cual es tu nombre?" id="idnome" name="¿Cual es tu nombre?" value=""><br><br>
+  <label for="note">Essa tarefa foi dificil?</label>
+  <input type="range">
+
+
+</fieldset>
+
+<fieldset>
+
+<legend>Opnião quanto a ultilização</legend>
+
+<img src="imgsalva.jfif" alt=""><br>
+
+
+Como se escreve cachorro em inglês?<br>
+<input type="radio">Dog<br>
+<input type="radio">Dogy<br>
+<input type="radio">Doggi<br>
+<input type="radio">fish<br><br><br>
+
+Complete a frase com a palavras em inglês: "Quem não tem cão caça com ____"<br>
+<input type="checkbox">Bird<br>
+<input type="checkbox">Cat<br>
+<input type="checkbox">Dog<br>
+<input type="checkbox">Fish<br>
+
+
+</fieldset>
+
+<fieldset>
+    <legend>Dê uma nota para seu professor</legend>
+    <label for="note">Seu professor explica bem a materia?</label><br>
+    <input type="range">
+
+</fieldset>
+
+<fieldset>
+<legend>Opiniões</legend>
+Digite a sua opinião sobre a disciplina<br>
+<textarea name="" id="" cols="40" rows="20"></textarea><br>
+
+</fieldset>
+
+<button>Gravar respostas</button>
+
+
+    </form>
+    
+    
+</body>
+</html>
